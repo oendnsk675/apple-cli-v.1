@@ -1,4 +1,4 @@
-# Apple Cli V1
+# Apple Cli V1(Beta)
 
 Tool apple cli versi no threads dari eastlombok team,di buat oleh sayidina ahmadal qososyi,tool yang di gunakan untuk auto cek akun apple target dengan emailnya,maupun dengan email:passwordnya.
 
